@@ -1,1 +1,3 @@
 # D121231102-MOBILE2025-W1
+NIM: D121231102
+Nama: Muhammad Irgi Abayl Marzuku
