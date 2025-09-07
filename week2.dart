@@ -1,5 +1,3 @@
-// Contoh kode sederhana (ala pemula) - Dart
-
 void main() {
   print('Fibonacci sampai F(7): ${fibonacciSequence(7)}'); // [0,1,1,2,3,5,8,13]
   print('5! = ${factorial(5)}'); // 120
